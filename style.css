@@ -57,6 +57,10 @@ textarea::placeholder {
   color: #467745;
 }
 
+div {
+  width: 480px;
+}
+
 .checkbox {
   width: 20px;
   height: 20px;
